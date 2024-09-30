@@ -1,0 +1,1 @@
+select shohin_mei,torokubi from shohin where torokubi >='2009-4-28';
