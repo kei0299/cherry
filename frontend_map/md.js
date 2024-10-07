@@ -5,7 +5,7 @@ marked.use({
     headerIds: false
 });
 
-const markdownString = `# Hello,World
+const markdownString = `# Hello, World
 
 This is a paragraph in *markdown*.`;
 
